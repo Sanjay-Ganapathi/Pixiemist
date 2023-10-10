@@ -2,6 +2,8 @@
 
 A SaaS application for image editing using AI.
 
+![Project Image](https://github.com/Sanjay-Ganapathi/Pixiemist/blob/main/thumbnail.png)
+
 ## Technologies
 
 - ✨ Next js 13 `App Router`
