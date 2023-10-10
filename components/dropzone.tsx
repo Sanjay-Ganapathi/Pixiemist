@@ -38,7 +38,8 @@ interface DropzoneProps<
 
 export const Dropzone = <TFieldValues extends FieldValues>({
   accept = {
-    "image/*": [".jpeg", ".png", ".jpg"],
+    "image/jpeg": [],
+    "image/png": [],
   },
   maxFiles = 1,
   name,
