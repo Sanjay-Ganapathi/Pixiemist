@@ -2,7 +2,7 @@
 
 A SaaS application for image editing using AI.
 
-![Project Image](https://github.com/Sanjay-Ganapathi/Pixiemist/blob/main/thumbnail.png)
+![Project Image](https://github.com/Sanjay-Ganapathi/Pixiemist/blob/main/public/thumbnail.png)
 
 ## Technologies
 
